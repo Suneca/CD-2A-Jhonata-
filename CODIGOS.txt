@@ -1,0 +1,14 @@
+UF 
+Unidade da Federação
+
+V0401
+Condição na unidade domiciliar
+
+V061111
+Nos últimos três meses, utilizou a Internet em algum local
+
+V06112
+O acesso à Internet foi feito através de microcomputador
+
+V061113
+O acesso à Internet foi feito através de telefone celular
